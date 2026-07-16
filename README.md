@@ -20,6 +20,7 @@ Extract anywhere, run `Hotkeys.exe`, done. No install, no setup, no API keys.
 
 - **[geoscore](https://github.com/sprawf/geoscore)** — Free, open-source SEO & AI-visibility audit tool. Cloudflare Workers + Pages + D1 + Workers AI. Fork & deploy in ~10 minutes on the free tier.  **[🌐 Try it live → geoscoreapp.pages.dev](https://geoscoreapp.pages.dev)**
 - **[PromptRefiner](https://github.com/sprawf/PromptRefiner)** — Refine any text with AI, anywhere on Windows, in one hotkey. Python desktop app.
+- **[WarCratePredict](https://github.com/sprawf/WarCratePredict)** — War Supply Crate timer/tracker addon for WoW. Flying detection, learned drop routes, map pin, shard tracking, next-crate countdowns. No libraries, no dependencies — just drop the folder in.
 
 ---
 
