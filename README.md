@@ -2,7 +2,7 @@
 
 I build small, opinionated Windows/web tools that do one thing well.
 
-## ⚔️ War Crate Predictor — my flagship
+## ⚔️ War Crate Predictor
 
 WoW addon. Predicts War Supply Crate drops: flying detection, learned drop routes, map pin, shard tracking, and drop/land + next-crate countdowns for all 5 crate zones.
 
