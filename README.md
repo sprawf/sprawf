@@ -8,11 +8,11 @@ WoW addon. Predicts War Supply Crate drops: flying detection, learned drop route
 
 ### 📥 Download
 
-**[⬇ WarCratePredict (Code → Download ZIP)](https://github.com/sprawf/WarCratePredict)**
+**[⬇ WarCratePredict.zip (latest release)](https://github.com/sprawf/WarCratePredict/releases/latest/download/WarCratePredict.zip)**
 
-Extract, rename the folder to `WarCratePredict`, drop it in `Interface\AddOns\`, `/reload`. No libraries, no dependencies, nothing else to install.
+Extract into `Interface\AddOns\`, `/reload`, done. No renaming, no libraries, no dependencies.
 
-[Source & docs →](https://github.com/sprawf/WarCratePredict)
+[See all releases →](https://github.com/sprawf/WarCratePredict/releases)  ·  [Source & docs →](https://github.com/sprawf/WarCratePredict)
 
 ---
 
