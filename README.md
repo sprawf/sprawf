@@ -2,25 +2,25 @@
 
 I build small, opinionated Windows/web tools that do one thing well.
 
-## ⚡ Hotkeys — my flagship
+## ⚔️ War Crate Predictor — my flagship
 
-Windows tray app. AI text refiner + voice typing + audio/screen/GIF/macro recorder + offline whiteboard + file transcriber with speaker labels, all from one hotkey. No API key needed.
+WoW addon. Predicts War Supply Crate drops: flying detection, learned drop routes, map pin, shard tracking, and drop/land + next-crate countdowns for all 5 crate zones. No API key needed.
 
-### 📥 Download for Windows
+### 📥 Download
 
-**[⬇ Hotkeys-Windows.zip (latest release)](https://github.com/sprawf/hotkeys/releases/latest/download/Hotkeys-Windows.zip)**
+**[⬇ WarCratePredict (Code → Download ZIP)](https://github.com/sprawf/WarCratePredict)**
 
-Extract anywhere, run `Hotkeys.exe`, done. No install, no setup, no API keys.
+Extract, rename the folder to `WarCratePredict`, drop it in `Interface\AddOns\`, `/reload`. No libraries, no dependencies, nothing else to install.
 
-[See all releases →](https://github.com/sprawf/hotkeys/releases)  ·  [Source & docs →](https://github.com/sprawf/hotkeys)
+[Source & docs →](https://github.com/sprawf/WarCratePredict)
 
 ---
 
 ## Other projects
 
+- **[Hotkeys](https://github.com/sprawf/hotkeys)** — Windows tray app. AI text refiner + voice typing + audio/screen/GIF/macro recorder + offline whiteboard + file transcriber with speaker labels, all from one hotkey. **[⬇ Hotkeys-Windows.zip (latest release)](https://github.com/sprawf/hotkeys/releases/latest/download/Hotkeys-Windows.zip)** — extract anywhere, run `Hotkeys.exe`, done. No install, no setup, no API keys. [See all releases →](https://github.com/sprawf/hotkeys/releases)
 - **[geoscore](https://github.com/sprawf/geoscore)** — Free, open-source SEO & AI-visibility audit tool. Cloudflare Workers + Pages + D1 + Workers AI. Fork & deploy in ~10 minutes on the free tier.  **[🌐 Try it live → geoscoreapp.pages.dev](https://geoscoreapp.pages.dev)**
 - **[PromptRefiner](https://github.com/sprawf/PromptRefiner)** — Refine any text with AI, anywhere on Windows, in one hotkey. Python desktop app.
-- **[WarCratePredict](https://github.com/sprawf/WarCratePredict)** — War Supply Crate timer/tracker addon for WoW. Flying detection, learned drop routes, map pin, shard tracking, next-crate countdowns. No libraries, no dependencies — just drop the folder in.
 
 ---
 
